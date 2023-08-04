@@ -1,0 +1,22 @@
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\bin\Debug\20 - Game Jokenpo.exe.config
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\bin\Debug\20 - Game Jokenpo.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\bin\Debug\20 - Game Jokenpo.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\_20___Game_Jokenpo.Form1.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\_20___Game_Jokenpo.Properties.Resources.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\bin\Debug\20 - Game Jokenpo.exe.config
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\bin\Debug\20 - Game Jokenpo.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\bin\Debug\20 - Game Jokenpo.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\_20___Game_Jokenpo.Form1.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\_20___Game_Jokenpo.Properties.Resources.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\20 - Game Jokenpo\20 - Game Jokenpo\obj\Debug\20 - Game Jokenpo.pdb
